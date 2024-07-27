@@ -13,6 +13,3 @@ A simple notes application built using Node.js, Express, SQLite, and vanilla HTM
 - Backend: Node.js with Express
 - Database: SQLite
 - Frontend: HTML, CSS, JavaScript
-
-## Project Structure
-
